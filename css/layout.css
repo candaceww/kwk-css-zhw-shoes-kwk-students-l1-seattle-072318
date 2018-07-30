@@ -1,5 +1,7 @@
 /********** Fixes **********/
-
+div {
+    column-count: 3;
+}
 * {
   margin:0;
   padding:0;
